@@ -1,0 +1,15 @@
+{
+  "name": "fkghelperapp",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/AerosAtar/FKGHelperApp.git",
+  "author": "aerosatar <aerosatar@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "sync-pom-version": "sync-pom-version"
+  },
+  "dependencies": {
+    "@angular/core": "^6.1.10",
+    "@angular/material": "^6.4.7"
+  }
+}
